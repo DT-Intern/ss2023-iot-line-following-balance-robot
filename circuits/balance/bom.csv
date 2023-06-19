@@ -1,0 +1,6 @@
+﻿Name,Menge,Komponente
+"U1",1," Arduino Uno R3"
+"U3",1," Motortreiber mit H-Brückenschaltung"
+"M1, M2",2," Hobby-Getriebemotor"
+"D1, D2, D3, D4, D5, D6, D7, D8",8," Diode"
+"U2",1," Sparkfun MMA7361 Breakout"
