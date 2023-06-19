@@ -1,0 +1,7 @@
+﻿Name,Menge,Komponente
+"U1",1," Arduino Uno R3"
+"U2",1," IR-Sensor"
+"U3",1," Motortreiber mit H-Brückenschaltung"
+"M1, M2",2," Hobby-Getriebemotor"
+"D1, D2, D3, D4, D5, D6, D7, D8",8," Diode"
+"PIR1, PIR2",2," PIR-Sensor"
